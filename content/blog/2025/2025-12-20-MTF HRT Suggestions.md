@@ -1,6 +1,6 @@
 +++
 title = "MTF HRT Suggestions From A Fellow Transfem"
-authors = ["Xenia Meraki"]
+authors = ["Xenia Demonheart"]
 [taxonomies]
 tags = ["Life", "Trans", "Politics"]
 [extra]

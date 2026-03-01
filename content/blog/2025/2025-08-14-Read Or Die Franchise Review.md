@@ -1,5 +1,5 @@
 +++
-authors = ["Xenia Meraki"]
+authors = ["Xenia Demonheart"]
 title = "Read Or Die Franchise Review"
 [taxonomies]
 tags = ["Anime", "Fandom", "Reviews"]

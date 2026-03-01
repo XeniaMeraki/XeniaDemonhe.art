@@ -1,6 +1,6 @@
 +++
 title = "The Rising Tide of Transphobia"
-authors = ["Xenia Meraki"]
+authors = ["Xenia Demonheart"]
 [taxonomies]
 tags = ["Politics", "Life", "Trans"]
 [extra]

@@ -1,6 +1,6 @@
 +++
 title = "Xenia-isms"
-authors = ["Xenia Meraki"]
+authors = ["Xenia Demonheart"]
 [taxonomies]
 tags = ["Life", "Xenia", "Silly"]
 [extra]

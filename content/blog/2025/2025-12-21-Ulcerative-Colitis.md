@@ -1,6 +1,6 @@
 +++
 title = "My Experience Living With Ulcerative Colitis"
-authors = ["Xenia Meraki"]
+authors = ["Xenia Demonheart"]
 [taxonomies]
 tags = ["Life", "Politics", "Xenia"]
 [extra]

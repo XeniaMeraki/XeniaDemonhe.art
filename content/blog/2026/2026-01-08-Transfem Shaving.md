@@ -1,6 +1,6 @@
 +++
 title = "Transfem Body and Face Shaving"
-authors = ["Xenia Meraki"]
+authors = ["Xenia Demonheart"]
 [taxonomies]
 tags = ["Tutorial", "Xenia", "Trans"]
 [extra]

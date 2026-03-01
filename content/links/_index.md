@@ -47,6 +47,9 @@ title = "Links"
 <div id="buttons">
     <a href="https://lumaeris.com/" target="_blank"><img src="https://lumaeris.com/assets/img/88x31.png" alt="Lumaeris' button"></a>
     <a href="https://ffi.lol/" target="_blank"><img src="https://ffi.lol/88x31@1x.png" alt="Alices' 88x31 button"></a>
+    <a href="https://pghrt.diy/" target="_blank"><img src="https://pghrt.diy/img/pghrt_88x31.png" alt="Katie's' button"></a>
+    <a href="https://fluoritebyte.name/" target="_blank"><img src="https://fluoritebyte.name/resources/88x31.png" alt="Fluorite's button"></a>
+    <a href="https://kolunmi.net/" target="_blank"><img src="https://kolunmi.net/kolunmi88x31.png" alt="Kolumni's button"></a>
 </div>
 
 ### <p style="text-align: center;">Add my button to your website!</p>

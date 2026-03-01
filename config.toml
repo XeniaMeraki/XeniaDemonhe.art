@@ -8,7 +8,7 @@ minify_html = true
 generate_feeds = true
 feed_filenames = ["rss.xml", "atom.xml"]
 build_search_index = true
-author = "Xenia Meraki"
+author = "Xenia Demonheart"
 default_language = "en"
 taxonomies = [{ name = "tags", feed = true }]
 # Based on https://github.com/welpo/tabi
@@ -178,6 +178,6 @@ show_qr = false
 #layout = false
 # Don't load any styles for debugging purposes
 #no_styles = false
-[extra.authors."Xenia Meraki"]
+[extra.authors."Xenia Demonheart"]
 avatar = "/bunnyxeniabyflora.png"
 url = "/"

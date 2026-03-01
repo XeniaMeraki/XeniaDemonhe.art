@@ -1,6 +1,6 @@
 +++
 title = "Of Bazzite And My Callout Post"
-authors = ["Xenia Meraki"]
+authors = ["Xenia Demonheart"]
 [taxonomies]
 tags = ["Linux", "Life", "Tech"]
 [extra]
