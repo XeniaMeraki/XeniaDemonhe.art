@@ -181,3 +181,6 @@ show_qr = false
 [extra.authors."Xenia Demonheart"]
 avatar = "/bunnyxeniabyflora.png"
 url = "/"
+[extra.authors."Medley"]
+avatar = "/medley.png"
+url = "/"
