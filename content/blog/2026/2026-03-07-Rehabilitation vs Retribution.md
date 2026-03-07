@@ -7,6 +7,10 @@ tags = ["Life", "Xenia", "Politics"]
 go_to_top = true 
 in_search_index = true
 +++
+<div style="text-align: center;">
+
+The following is a collab post between ourselves and Medley, you can find her main websites at [Github](https://github.com/delphicmelody/vector-art) and [Ko-Fi](https://ko-fi.com/melodyofdelphi)
+</p></div>
 
 <mark><span style="color: #a6e3a1;">⚧ Xenia</span> <span style="color: #fab387;">Demonheart ☭</span></mark>: She's so very, very, kind. Intelligent. She embodies xenia so well, indeed. We wish we could date her. We are very aware of the line and very mindful of it. But we will have our wishes and dreams anyway. We feel great doubt that we will find someone that matches our preferences as closely as she does again. Our views on life and the world and how to treat people, and how to treat us.
 
