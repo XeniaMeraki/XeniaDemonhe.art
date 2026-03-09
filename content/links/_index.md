@@ -10,7 +10,7 @@ title = "Links"
 <https://www.youtube.com/@BwarchTheGamer/videos>
 
 ### Bluesky (18+)
-<https://bsky.app/profile/xeniameraki.bsky.social>
+<https://bsky.app/profile/xeniademonheart.bsky.social>
 
 ### Join my community discord (18+)
 <https://discord.gg/gkZWX4E>
@@ -54,13 +54,13 @@ title = "Links"
 
 ### <p style="text-align: center;">Add my button to your website!</p>
 <div id="buttons">
-<a href="https://xeniameraki.com/" target="_blank"><img src="https://files.catbox.moe/zxogms.png" alt="Xenias' button"></a>
+<a href="https://xeniademonhe.art/" target="_blank"><img src="https://files.catbox.moe/zxogms.png" alt="Xenias' button"></a>
 </div>
 
 ```
 #HTML
 <div id="buttons">
-<a href="https://xeniameraki.com/" target="_blank"><img src="https://files.catbox.moe/zxogms.png" alt="Xenias' button"></a>
+<a href="https://xeniademonhe.art/" target="_blank"><img src="https://files.catbox.moe/zxogms.png" alt="Xenias' button"></a>
 </div>
 
 #CSS
