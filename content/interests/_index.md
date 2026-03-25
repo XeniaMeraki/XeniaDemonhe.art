@@ -29,3 +29,6 @@ go_to_top = true
 
 ## <p style="text-align: center;"><span style="color: #fab387;">Top 25 Movies</span></p>
 [![Alt text](https://files.catbox.moe/05ga5l.png)](https://files.catbox.moe/05ga5l.png "Top 25 Movies")
+
+## <p style="text-align: center;"><span style="color: #fab387;">Fictional Crushes</span></p>
+[![Alt text](https://files.catbox.moe/10hlqp.webp)](https://files.catbox.moe/10hlqp.webp "Fictional Crushes")
