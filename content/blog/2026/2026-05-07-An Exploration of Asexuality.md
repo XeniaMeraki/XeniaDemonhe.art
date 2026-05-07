@@ -238,8 +238,21 @@ The assumption that everyone feels or should feel forms of attraction or should 
 
 {{ indent (n=2) }}Asexuality is not sexual preference; it is a sexual identity. You can no more fix someone who is asexual, than you can fix someone who is gay(if you think you can do that, maybe just stop reading). Sexuality is not determined by fear, regret, trauma, personal choice, or past experiences. Sexual identity is simply who you are in the same way a someone can know what gender(s), if any, they’re attracted to without having dated anyone of that gender(s).
 
-**Additional Reading**: [https://www.oulgbtq.org/acearo-mythbusting.html](https://www.oulgbtq.org/acearo-mythbusting.html)
+### **<p style="text-align: center;"><span style="color: #89b4fa;">Charting asexuality</span></span>**
 
-{{ indent (n=2) }}<span style="color: #a6e3a1;">This has been a guest contributor article by Kabbyyss. Ia does not have social media accounts and so cannot be credited beyond name. The easiest way to get in contact with ia would be to DM XeniaDemonheart on Discord and ask for Kabbyss.</span>
+[![Alt text](https://files.catbox.moe/875y6e.jpg)](https://files.catbox.moe/875y6e.jpg "A chart of asexuality types comparing a lot of the above examples to pie and how people might enjoy pie differently")
 
+[![Alt text](https://files.catbox.moe/m4ifd8.jpeg)](https://files.catbox.moe/m4ifd8.jpeg "A chart drawn by the same artist showing lineage of asexuality types flowing into each other")
+
+<div style="text-align: center;">
+
+Art created by redditor [Holiday-Bag-9220](https://www.reddit.com/user/Holiday-Bag-9220)
+
+**Additional Reading about asexuality**: 
+
+[https://www.oulgbtq.org/acearo-mythbusting.html](https://www.oulgbtq.org/acearo-mythbusting.html)
+
+<small><span style="color: #a6e3a1;">This has been a guest contributor article by Kabbyyss. Ia does not have social media accounts and so cannot be credited beyond name. The easiest way to get in contact with ia would be to DM XeniaDemonheart on Discord and ask for Kabbyyss.</span></small>
+
+</p></div>
 
