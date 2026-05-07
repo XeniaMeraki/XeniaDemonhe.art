@@ -10,7 +10,7 @@ in_search_index = true
 
 {{ indent (n=2) }}The following is designed to be a completely comprehensive guide to ace terminology. Although the words are helpful for understanding other people, how they see the world, and how you might differ from those people, and therefore relate to them, it is worth remembering that the individual experience of a person is truly unique and no one can tell you who you are. It is critical you do not take this dictionary as a flat definition, but more as a rough guideline to help you through your self discovery, and become your true self.
 
-[![Alt text](https://files.catbox.moe/ccn9z2.png)](https://files.catbox.moe/ccn9z2.png "A bell curve chart with Sex Aversion on left side and Hypersexual on right side")
+[![Alt text](https://files.catbox.moe/ccn9z2.png)](https://files.catbox.moe/ccn9z2.png "The asexuality flag; black, gray, white, purple stripes stacked vertically on top of each other ")
 
 <p style="text-align: center;">The first and most commonly used definition of ace is:</span>
 
@@ -24,11 +24,11 @@ This definition requires some explanation, but it effectively encompasses all pe
 
 {{ indent (n=2) }}Most people understand sexual preferences in the binary. On/off. Yes/No. But similar to the gender binary, this is a simplification used to make things easier to understand. When we dive deep into the asexuality spectrum, we find it is made up of hundreds of unique aspects. Imagine if you would a standard deviation bell curve. Where on one side of the extreme, lays people who are 100% completely sexual contact averse, or disgusted by the idea of sexual contact. On the other extreme of the curve are Hyper-sexual people.
 
-[![Alt text](https://files.catbox.moe/9fazsn.png)](https://files.catbox.moe/9fazsn.png "A bell curve chart with Sex Aversion on left side and Hypersexual on right side")
+[![Alt text](https://files.catbox.moe/g1olpc.png)](https://files.catbox.moe/g1olpc.png "A bell curve chart with Aromantic on left side and Hyperomantic on right side")
 
 {{ indent (n=2) }}When we envision the world like this, we come to understand that every person exists somewhere on the Asexual-Hypersexual spectrum. This definition allows everyone to be included if they so wish, by recognizing that a person's asexual expression is not defined by distance from the edges but instead is relative to its distance from the center. Through this, we allow people to use ace labels to describe themselves if they so wish but feel no pressure to either conform to the standard, nor achieve certain checkmarks to feel like a "Real Ace." In this model, everyone is allowed to be Ace, as long as they feel like they are far enough away from the norm. This definition also leaves room for hypersexuals to be considered part of the ace spectrum, which is a very controversial take, but I will stand by it, in solidarity of inclusivity for all people. Similar to the Asexual-Hypersexual spectrum, sits a romanticism spectrum.
 
-[![Alt text](https://files.catbox.moe/g1olpc.png)](https://files.catbox.moe/g1olpc.png "A bell curve chart with Aromantic on left side and Hyperomantic on right side")
+[![Alt text](https://files.catbox.moe/9fazsn.png)](https://files.catbox.moe/9fazsn.png "A bell curve chart with Sex Aversion on left side and Hypersexual on right side")
 
 {{ indent (n=2) }}Again, by using this model, we allow everyone the breathing room required to do the self-exploration required to become comfortable with ones self, through the understanding that everyone lays somewhere on this curve. The question is where on the curve a person sits, and whether or not they feel comfortable enough taking a label or flag. This definition is understood with the mindset that your personal experience is only understood by yourself, and like sexual preferences (Gay, Bi, Pan), can only be determined by you.
 
@@ -168,11 +168,11 @@ A person who desires actions despite not being able to experience their related 
 
 - **<span style="color: #cba6f7;">Orchid-</span>**:
 
-The opposite of Cupio, a person who experiences forms of attraction, but does not desire a relationship.
+{{ indent (n=2) }}The opposite of Cupio, a person who experiences forms of attraction, but does not desire a relationship.
 
 - **<span style="color: #cba6f7;">Bellus-</span>**:
 
-A person who is uncomfortable with, repulsed by, or does not want a relationship, but is ok with traditional expressions of attraction when devoid from the expectation of relationship. 
+{{ indent (n=2) }}A person who is uncomfortable with, repulsed by, or does not want a relationship, but is ok with traditional expressions of attraction when devoid from the expectation of relationship. 
 
 - **<span style="color: #cba6f7;">Quoi-/Nebula-</span>**:
 
@@ -180,7 +180,7 @@ A person who is uncomfortable with, repulsed by, or does not want a relationship
 
 - **<span style="color: #cba6f7;">Recipro-</span>**:
 
-A person who does not feel expressions of attraction unless they know the other person is attracted to them first.
+{{ indent (n=2) }}A person who does not feel expressions of attraction unless they know the other person is attracted to them first.
 
 - **<span style="color: #cba6f7;">Jump</span>**:
 
