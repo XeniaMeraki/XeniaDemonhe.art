@@ -2,7 +2,7 @@
 title = "Rehabilitation VS Retribution"
 authors = ["Medley"]
 [taxonomies]
-tags = ["Life", "Xenia", "Politics"]
+tags = ["Life", "Guest", "Politics"]
 [extra]
 go_to_top = true 
 in_search_index = true
