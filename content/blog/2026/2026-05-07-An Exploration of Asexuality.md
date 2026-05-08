@@ -36,7 +36,7 @@ This definition requires some explanation, but it effectively encompasses all pe
 
 # **<p style="text-align: center;"><span style="color: #89b4fa;">Types of attraction</span></span>**
 
-{{ indent (n=2) }}Most forms of attraction are more easily defined by things they are NOT. Defining sexual contact is simple enough, but defining romantic contact can be very challenging. As such, most of the things on this list are more "know it when you feel it." If you do not understand a feeling or the definition is not helping, it is possible or likely you simply do not feel this form of attraction. The following is a short list of the most commonly talked about forms of attraction. A much more comprehensive list can be found here
+{{ indent (n=2) }}Most forms of attraction are more easily defined by things they are NOT. Defining sexual contact is simple enough, but defining romantic contact can be very challenging. As such, most of the things on this list are more "know it when you feel it." If you do not understand a feeling or the definition is not helping, it is possible or likely you simply do not feel this form of attraction. The following is a short list of the most commonly talked about forms of attraction. A much more comprehensive list can be found [here](https://lgbtqia.wiki/wiki/Tertiary_Attraction)
 
 - **<span style="color: #cba6f7;">Aesthetic</span>**:
 
