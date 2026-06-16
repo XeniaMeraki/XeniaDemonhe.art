@@ -14,7 +14,7 @@ Youtuber | Vtuber | Writer | FGC | Asexual | Pansexual | Panromantic | Autistic 
 Despite having a greek name, I'm not greek. I'm italian american, but I mostly denounce my nationality and my family name and my family in general. The first name of Xenia is partially but not entirely inspired by the [linux fox](https://xenia.efi.pages.gay/). I actually just kinda love the concept of [xenia](https://en.wikipedia.org/wiki/Xenia_(Greek)).
 </span>
 
-My best and coolest projects you might be most interested in/I have worked the hardest on are my [gaming youtube channel, especially our vtuber videos and video essays](https://www.youtube.com/@BwarchTheGamer/videos)
+My best and coolest projects you might be most interested in/I have worked the hardest on are my [gaming youtube channel, especially my vtuber videos and video essays](https://www.youtube.com/@BwarchTheGamer/videos)
 
 ![Alt text](xeniavtuber.jpg "A screenshot of our youtube channel, various thumbnails I've made, and two superimposed shots of my vroid vtuber")
 
