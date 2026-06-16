@@ -34,6 +34,7 @@ Other Xenia-isms unlocked so far:
 - plaidd (Played) {Plad}
 - willy nilly (nilly willy)
 - blahaj (Blah-hodge) {blo-high}
+- ecology (Animal Lore)
 
 [![Alt text](https://files.catbox.moe/08oixt.png)](https://files.catbox.moe/08oixt.png "A Youtube comment: 'Jifes... This man called gifs fucking jifes...")
 
