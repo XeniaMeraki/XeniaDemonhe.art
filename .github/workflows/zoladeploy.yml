@@ -4,9 +4,6 @@ on:
   push:
     branches:
       - main
-env:
-    FORCE_JAVASCRIPT_ACTIONS_TO_NODE24=true
-
 permissions:
   contents: read
   pages: write
@@ -32,6 +29,7 @@ jobs:
       - name: Upload static files as artifact
         id: deployment
         uses: actions/upload-pages-artifact@v4
+        env: FORCE_JAVASCRIPT_ACTIONS_TO_NODE24=true
         with:
           path: public/
   deploy:
