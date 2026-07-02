@@ -28,7 +28,9 @@ jobs:
           ./zola build
       - name: Upload static files as artifact
         id: deployment
-        uses: actions/upload-pages-artifact@v7
+        uses: actions/upload-pages-artifact@v4
+        env:
+         ACTIONS_RUNNER_DISABLE_NODE_MAGLEV: 1
         with:
           path: public/
   deploy:
