@@ -25,7 +25,7 @@ go_to_top = true
 [![Alt text](https://files.catbox.moe/pyfswu.png)](https://files.catbox.moe/pyfswu.png "Favorite Albums")
 
 ## <p style="text-align: center;"><span style="color: #fab387;">Favorite Characters</span></p>
-[![Alt text](https://files.catbox.moe/3kwy7c.png)](https://files.catbox.moe/3kwy7c.png "Favorite Characters")
+[![Alt text](https://files.catbox.moe/ds2usy.png)](https://files.catbox.moe/ds2usy.png "Favorite Characters")
 
 ## <p style="text-align: center;"><span style="color: #fab387;">Top 25 Movies</span></p>
 [![Alt text](https://files.catbox.moe/05ga5l.png)](https://files.catbox.moe/05ga5l.png "Top 25 Movies")
