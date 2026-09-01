@@ -2,7 +2,7 @@
 title = "XeniaOS"
 +++
 # <p style="text-align: center;"><span style="color: #fab387;">XeniaOS</span></p>
-{% crt() %}
+{% <crt> %}
 ```
        !`              @                  ☆ﾟ.*･｡ﾟXeniaOS ﾟ｡･*.ﾟ☆
       @```b        @@@@@                 Arch/CachyOS Bootc | Niri
@@ -32,7 +32,7 @@ title = "XeniaOS"
                     1   ][[
   Credit art: Cathodegaytube for original art, @catumin for ascii-ification
 ```
-{% end %}
+{% </crt> %}
 
 XeniaOS is my baby. It's a linux-based bootc image that's personalized to my liking. To the casual observer, it will simply be a desktop operating system, like Windows.
 

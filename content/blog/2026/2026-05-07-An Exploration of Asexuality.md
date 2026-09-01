@@ -8,7 +8,7 @@ go_to_top = true
 in_search_index = true
 +++
 
-{{ indent (n=2) }}The following is designed to be a completely comprehensive guide to ace terminology. Although the words are helpful for understanding other people, how they see the world, and how you might differ from those people, and therefore relate to them, it is worth remembering that the individual experience of a person is truly unique and no one can tell you who you are. It is critical you do not take this dictionary as a flat definition, but more as a rough guideline to help you through your self discovery, and become your true self.
+{{ <indent n={2} /> }}The following is designed to be a completely comprehensive guide to ace terminology. Although the words are helpful for understanding other people, how they see the world, and how you might differ from those people, and therefore relate to them, it is worth remembering that the individual experience of a person is truly unique and no one can tell you who you are. It is critical you do not take this dictionary as a flat definition, but more as a rough guideline to help you through your self discovery, and become your true self.
 
 [![Alt text](https://files.catbox.moe/ccn9z2.png)](https://files.catbox.moe/ccn9z2.png "The asexuality flag; black, gray, white, purple stripes stacked vertically on top of each other ")
 
@@ -16,27 +16,27 @@ in_search_index = true
 
 *<p style="text-align: center;"><span style="color: #cba6f7;">A person who has a complete disgust to sexual contact.</span></span>*
 
-{{ indent (n=2) }}This definition is fine. It works. It's not wrong, but it's got some problems. It ignores a lot of facts about the way sexual orientation works, for instance sex ambivalence instead of aversion, or pushes other groups of people like the aromantics or demi-sexuals out of the ace umbrella. This definition is also commonly called "black stripe" asexuality. As such, my favourite definition of ace is:
+{{ <indent n={2} /> }}This definition is fine. It works. It's not wrong, but it's got some problems. It ignores a lot of facts about the way sexual orientation works, for instance sex ambivalence instead of aversion, or pushes other groups of people like the aromantics or demi-sexuals out of the ace umbrella. This definition is also commonly called "black stripe" asexuality. As such, my favourite definition of ace is:
 
 *<p style="text-align: center;"><span style="color: #cba6f7;">A person who does not feel attraction in a conventional way.</span></span>*
 
 This definition requires some explanation, but it effectively encompasses all people who feel differently about sexuality and romanticism. When I say Ace from here on, this is the definition I use.
 
-{{ indent (n=2) }}Most people understand sexual preferences in the binary. On/off. Yes/No. But similar to the gender binary, this is a simplification used to make things easier to understand. When we dive deep into the asexuality spectrum, we find it is made up of hundreds of unique aspects. Imagine if you would a standard deviation bell curve. Where on one side of the extreme, lays people who are 100% completely sexual contact averse, or disgusted by the idea of sexual contact. On the other extreme of the curve are Hyper-sexual people.
+{{ <indent n={2} /> }}Most people understand sexual preferences in the binary. On/off. Yes/No. But similar to the gender binary, this is a simplification used to make things easier to understand. When we dive deep into the asexuality spectrum, we find it is made up of hundreds of unique aspects. Imagine if you would a standard deviation bell curve. Where on one side of the extreme, lays people who are 100% completely sexual contact averse, or disgusted by the idea of sexual contact. On the other extreme of the curve are Hyper-sexual people.
 
 [![Alt text](https://files.catbox.moe/g1olpc.png)](https://files.catbox.moe/g1olpc.png "A bell curve chart with Aromantic on left side and Hyperomantic on right side")
 
-{{ indent (n=2) }}When we envision the world like this, we come to understand that every person exists somewhere on the Asexual-Hypersexual spectrum. This definition allows everyone to be included if they so wish, by recognizing that a person's asexual expression is not defined by distance from the edges but instead is relative to its distance from the center. Through this, we allow people to use ace labels to describe themselves if they so wish but feel no pressure to either conform to the standard, nor achieve certain checkmarks to feel like a "Real Ace." In this model, everyone is allowed to be Ace, as long as they feel like they are far enough away from the norm. This definition also leaves room for hypersexuals to be considered part of the ace spectrum, which is a very controversial take, but I will stand by it, in solidarity of inclusivity for all people. Similar to the Asexual-Hypersexual spectrum, sits a romanticism spectrum.
+{{ <indent n={2} /> }}When we envision the world like this, we come to understand that every person exists somewhere on the Asexual-Hypersexual spectrum. This definition allows everyone to be included if they so wish, by recognizing that a person's asexual expression is not defined by distance from the edges but instead is relative to its distance from the center. Through this, we allow people to use ace labels to describe themselves if they so wish but feel no pressure to either conform to the standard, nor achieve certain checkmarks to feel like a "Real Ace." In this model, everyone is allowed to be Ace, as long as they feel like they are far enough away from the norm. This definition also leaves room for hypersexuals to be considered part of the ace spectrum, which is a very controversial take, but I will stand by it, in solidarity of inclusivity for all people. Similar to the Asexual-Hypersexual spectrum, sits a romanticism spectrum.
 
 [![Alt text](https://files.catbox.moe/9fazsn.png)](https://files.catbox.moe/9fazsn.png "A bell curve chart with Sex Aversion on left side and Hypersexual on right side")
 
-{{ indent (n=2) }}Again, by using this model, we allow everyone the breathing room required to do the self-exploration required to become comfortable with ones self, through the understanding that everyone lays somewhere on this curve. The question is where on the curve a person sits, and whether or not they feel comfortable enough taking a label or flag. This definition is understood with the mindset that your personal experience is only understood by yourself, and like sexual preferences (Gay, Bi, Pan), can only be determined by you.
+{{ <indent n={2} /> }}Again, by using this model, we allow everyone the breathing room required to do the self-exploration required to become comfortable with ones self, through the understanding that everyone lays somewhere on this curve. The question is where on the curve a person sits, and whether or not they feel comfortable enough taking a label or flag. This definition is understood with the mindset that your personal experience is only understood by yourself, and like sexual preferences (Gay, Bi, Pan), can only be determined by you.
 
-{{ indent (n=2) }}This is babies first AroAce. If this is your first time encountering this word, this is what it means. To be AroAce is to be both Aromantic and Asexual. To for some reason or another find forms of sexual expression and romantic expression to be undesirable. Every form of attraction has its own bell curve, and every person has opinions and feelings about where they sit on each form of attraction. Every single person feels attraction to another person in a different way, and through exploring the rest of this, you can come to better understand who you are as a person, and how to better communicate your needs, as well as understand other people's emotional needs.
+{{ <indent n={2} /> }}This is babies first AroAce. If this is your first time encountering this word, this is what it means. To be AroAce is to be both Aromantic and Asexual. To for some reason or another find forms of sexual expression and romantic expression to be undesirable. Every form of attraction has its own bell curve, and every person has opinions and feelings about where they sit on each form of attraction. Every single person feels attraction to another person in a different way, and through exploring the rest of this, you can come to better understand who you are as a person, and how to better communicate your needs, as well as understand other people's emotional needs.
 
 # **<p style="text-align: center;"><span style="color: #89b4fa;">Types of attraction</span></span>**
 
-{{ indent (n=2) }}Most forms of attraction are more easily defined by things they are NOT. Defining sexual contact is simple enough, but defining romantic contact can be very challenging. As such, most of the things on this list are more "know it when you feel it." If you do not understand a feeling or the definition is not helping, it is possible or likely you simply do not feel this form of attraction. The following is a short list of the most commonly talked about forms of attraction. A much more comprehensive list can be found [here](https://lgbtqia.wiki/wiki/Tertiary_Attraction)
+{{ <indent n={2} /> }}Most forms of attraction are more easily defined by things they are NOT. Defining sexual contact is simple enough, but defining romantic contact can be very challenging. As such, most of the things on this list are more "know it when you feel it." If you do not understand a feeling or the definition is not helping, it is possible or likely you simply do not feel this form of attraction. The following is a short list of the most commonly talked about forms of attraction. A much more comprehensive list can be found [here](https://lgbtqia.wiki/wiki/Tertiary_Attraction)
 
 - **<span style="color: #cba6f7;">Aesthetic</span>**:
 
@@ -68,7 +68,7 @@ A person's sex drive, or the frequency at which a person desires sexual interact
  
 # **<p style="text-align: center;"><span style="color: #89b4fa;">Stances</span></span>**
 
-{{ indent (n=2) }}Stances are an aspect of attraction that describes an individual's feeling towards the form of attraction. Sometimes people find descriptive words a more helpful method of communicating their preferences. The following are prefixes one can put onto any form of attraction. For example, it is ok to be Sex-Repulsed, but Sensual-Favourable.
+{{ <indent n={2} /> }}Stances are an aspect of attraction that describes an individual's feeling towards the form of attraction. Sometimes people find descriptive words a more helpful method of communicating their preferences. The following are prefixes one can put onto any form of attraction. For example, it is ok to be Sex-Repulsed, but Sensual-Favourable.
 
  
 
@@ -104,11 +104,11 @@ A person who is experiencing a trauma or exhaustion related repulsion or ambival
 
 - **<span style="color: #cba6f7;">Gray-Ace</span>**:
 
-{{ indent (n=2) }}Gray describes a weak effect of the other definitions. For instance, a person who is "gray-sex-repulsed" may only lightly feel disgust towards sexual activity, rather than a fully encompassing repulsion. In some cases, asexual people may question if gray- labels actually "count" as being part of the asexual spectrum. Thus there ends up being pressure put on gray-asexual people to "prove" that they count as part of the community. Gray as a label is used to include people who are questioning, and people who feel only slight pulls towards a label or flag. This prevents people from feeling like they aren't "pure ace" or "real ace" enough to be included. The point of Gray as a term is to reduce Acephobia from both sides; people who consider ace to be "not real," as well as those who consider anyone who is not Sex Averse to be ace, by helping people understanding ace through a spectrum model. This is also called "-Angled" by some people.
+{{ <indent n={2} /> }}Gray describes a weak effect of the other definitions. For instance, a person who is "gray-sex-repulsed" may only lightly feel disgust towards sexual activity, rather than a fully encompassing repulsion. In some cases, asexual people may question if gray- labels actually "count" as being part of the asexual spectrum. Thus there ends up being pressure put on gray-asexual people to "prove" that they count as part of the community. Gray as a label is used to include people who are questioning, and people who feel only slight pulls towards a label or flag. This prevents people from feeling like they aren't "pure ace" or "real ace" enough to be included. The point of Gray as a term is to reduce Acephobia from both sides; people who consider ace to be "not real," as well as those who consider anyone who is not Sex Averse to be ace, by helping people understanding ace through a spectrum model. This is also called "-Angled" by some people.
 
 - **<span style="color: #cba6f7;">Periorientation (Roseic) and Variorientation</span>**:
 
-{{ indent (n=2) }}Most individuals in society are expected to have a matching sexual and romantic orientation. However, this is not always the case. Peri and Vari describe the link between a person's facets of attraction. For instance, a person who is aroace would be Perioriented, whereas a person who is a-sexual but hyper-romantic would be Varioriented. This can also be used to describe sexual preference, for instance a person who is homosexual but pan-romantic might only enjoy sexual contact from the same gender assignment as them, but will happily romanticise all genders with no intention of sexual contact. These words help people understand that a person's sexual and romantic experiences do not always align with themselves and can often help prevent people getting confused over the idea that a person must see different expressions of attraction as one big label. 
+{{ <indent n={2} /> }}Most individuals in society are expected to have a matching sexual and romantic orientation. However, this is not always the case. Peri and Vari describe the link between a person's facets of attraction. For instance, a person who is aroace would be Perioriented, whereas a person who is a-sexual but hyper-romantic would be Varioriented. This can also be used to describe sexual preference, for instance a person who is homosexual but pan-romantic might only enjoy sexual contact from the same gender assignment as them, but will happily romanticise all genders with no intention of sexual contact. These words help people understand that a person's sexual and romantic experiences do not always align with themselves and can often help prevent people getting confused over the idea that a person must see different expressions of attraction as one big label. 
 
 - **<span style="color: #cba6f7;">The Split Attraction Model (SAM)</span>**:
 
@@ -116,15 +116,15 @@ A person who is perioriented in all form does not need to clarify distinctions b
 
 - **<span style="color: #cba6f7;">Primary Attraction/Secondary Attraction</span>**: 
 
-{{ indent (n=2) }}Primary Attraction is usually an "immediate" attraction, conflated with words like infatuation, butterflies in the stomach, or the "Honey-Moon Phase." Whereas secondary attraction is the gradual buildup of emotional connection that develops over time. Some people find it hard to start meaningful relationships with people due to their lack of Primary attraction. Some people cannot hold onto meaningful relationships, or simply do not wish to form long relationships, due to a lack of ability to create secondary attraction.
+{{ <indent n={2} /> }}Primary Attraction is usually an "immediate" attraction, conflated with words like infatuation, butterflies in the stomach, or the "Honey-Moon Phase." Whereas secondary attraction is the gradual buildup of emotional connection that develops over time. Some people find it hard to start meaningful relationships with people due to their lack of Primary attraction. Some people cannot hold onto meaningful relationships, or simply do not wish to form long relationships, due to a lack of ability to create secondary attraction.
 
 - **<span style="color: #cba6f7;">Trauma-Related Asexuality</span>**:
 
-{{ indent (n=2) }}Although highly contested, in the interest of inclusivity, a separate space in my heart lives for trauma-related Ace. Often through sex work, or abuse, a person can develop ace feelings and may become repulsed by certain forms of attraction. These people are included in my definition, but it is worth understanding that they are an even smaller minority of an already very small group of people. Not all people who are asexual, are trauma related.
+{{ <indent n={2} /> }}Although highly contested, in the interest of inclusivity, a separate space in my heart lives for trauma-related Ace. Often through sex work, or abuse, a person can develop ace feelings and may become repulsed by certain forms of attraction. These people are included in my definition, but it is worth understanding that they are an even smaller minority of an already very small group of people. Not all people who are asexual, are trauma related.
 
 # **<p style="text-align: center;"><span style="color: #89b4fa;">Flags</span></span>**
 
- {{ indent (n=2) }}All the following terms are "Prefix", which is to say they can be attributed to any singular form of attraction, or more if one wishes to. For instance, a person may be Apothio-sexual, Demi-romantic, and Akio-Platonic. Combining this with the SAM, and the different forms of attraction, a person can come to a comprehensive model that helps them understand how they interact with other people, and most importantly, become conscious of the ways other people might differ from them. 
+  indent n=2 />All the following terms are "Prefix", which is to say they can be attributed to any singular form of attraction, or more if one wishes to. For instance, a person may be Apothio-sexual, Demi-romantic, and Akio-Platonic. Combining this with the SAM, and the different forms of attraction, a person can come to a comprehensive model that helps them understand how they interact with other people, and most importantly, become conscious of the ways other people might differ from them. 
 
 - **<span style="color: #cba6f7;">Allo-/Zed-</span>**:
 
@@ -168,19 +168,19 @@ A person who desires actions despite not being able to experience their related 
 
 - **<span style="color: #cba6f7;">Orchid-</span>**:
 
-{{ indent (n=2) }}The opposite of Cupio, a person who experiences forms of attraction, but does not desire a relationship.
+{{ <indent n={2} /> }}The opposite of Cupio, a person who experiences forms of attraction, but does not desire a relationship.
 
 - **<span style="color: #cba6f7;">Bellus-</span>**:
 
-{{ indent (n=2) }}A person who is uncomfortable with, repulsed by, or does not want a relationship, but is ok with traditional expressions of attraction when devoid from the expectation of relationship. 
+{{ <indent n={2} /> }}A person who is uncomfortable with, repulsed by, or does not want a relationship, but is ok with traditional expressions of attraction when devoid from the expectation of relationship. 
 
 - **<span style="color: #cba6f7;">Quoi-/Nebula-</span>**:
 
-{{ indent (n=2) }}A person who finds feelings of attraction confusing. Not necessarily that they do not feel them, but simply do not know what they feel like, or cannot express them outwardly, even if they are felt internally. Quoi people often are unable to distinguish feelings of romantic, sexual, platonic or aesthetic attraction, and will get them confused. Quoi may also be used to describe people who simply have not explored themselves enough to understand their desires (or lack thereof) and wish to use a label in the meantime.
+{{ <indent n={2} /> }}A person who finds feelings of attraction confusing. Not necessarily that they do not feel them, but simply do not know what they feel like, or cannot express them outwardly, even if they are felt internally. Quoi people often are unable to distinguish feelings of romantic, sexual, platonic or aesthetic attraction, and will get them confused. Quoi may also be used to describe people who simply have not explored themselves enough to understand their desires (or lack thereof) and wish to use a label in the meantime.
 
 - **<span style="color: #cba6f7;">Recipro-</span>**:
 
-{{ indent (n=2) }}A person who does not feel expressions of attraction unless they know the other person is attracted to them first.
+{{ <indent n={2} /> }}A person who does not feel expressions of attraction unless they know the other person is attracted to them first.
 
 - **<span style="color: #cba6f7;">Jump</span>**:
 
@@ -236,7 +236,7 @@ The assumption that everyone feels or should feel forms of attraction or should 
 
 ## **<p style="text-align: center;"><span style="color: #89b4fa;">"Fixing" Asexuals</span></span>**
 
-{{ indent (n=2) }}Asexuality is not sexual preference; it is a sexual identity. You can no more fix someone who is asexual, than you can fix someone who is gay(if you think you can do that, maybe just stop reading). Sexuality is not determined by fear, regret, trauma, personal choice, or past experiences. Sexual identity is simply who you are in the same way a someone can know what gender(s), if any, they’re attracted to without having dated anyone of that gender(s).
+{{ <indent n={2} /> }}Asexuality is not sexual preference; it is a sexual identity. You can no more fix someone who is asexual, than you can fix someone who is gay(if you think you can do that, maybe just stop reading). Sexuality is not determined by fear, regret, trauma, personal choice, or past experiences. Sexual identity is simply who you are in the same way a someone can know what gender(s), if any, they’re attracted to without having dated anyone of that gender(s).
 
 ### **<p style="text-align: center;"><span style="color: #89b4fa;">Charting asexuality</span></span>**
 

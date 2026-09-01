@@ -1,7 +1,8 @@
-{%- set n = n | default(value=4) | int -%}
+{% component indent(n: integer = 4) %}
 <span class="indent">
 {%- for _ in range(end=n) -%}
 &#8195;
 {%- endfor -%}
 </span>
+{% endcomponent indent %}
 
