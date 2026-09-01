@@ -34,4 +34,4 @@ go_to_top = true
 [![Alt text](https://files.catbox.moe/10hlqp.webp)](https://files.catbox.moe/10hlqp.webp "Fictional Crushes")
 
 ## <p style="text-align: center;"><span style="color: #fab387;">Characters That Are Literally Me</span></p>
-[![Alt text](https://files.catbox.moe/l5g6nj.png)](https://files.catbox.moe/l5g6nj.png "Literally Me")
+[![Alt text](https://files.catbox.moe/1lzvkh.png)](https://files.catbox.moe/1lzvkh.png "Literally Me")
